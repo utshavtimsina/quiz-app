@@ -1,6 +1,8 @@
 # quiz
 live Demo 
-utshav-quiz.herokuapp.com
+
+
+  https://utshav-quiz.herokuapp.com/
 ## Project setup
 ```
 npm install
